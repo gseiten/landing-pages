@@ -1,0 +1,25 @@
+{
+  "name": "landing-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gseiten/landing-pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://gseiten.github.io/landing-pages",
+  "bugs": {
+    "url": "https://github.com/gseiten/landing-pages/issues"
+  },
+  "homepage": "https://github.com/gseiten/landing-pages#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
