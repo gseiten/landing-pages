@@ -80,3 +80,9 @@ body {
 .ptext.headline {
     top: 25%;
 }
+
+strong {
+    font-size: 35px;
+    margin-bottom: 1rem;
+    display: block;
+}
